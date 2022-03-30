@@ -1,0 +1,66 @@
+@import url(https://fonts.googleapis.com/css2?family=Maven+Pro:wght@400;500;600;700;800;900&display=swap);
+
+.calendar {
+    font-family: Maven Pro, sans-serif;
+    /* font-weight: 500;
+    user-select: none;
+    visibility: visible;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    color: rgba(255, 255, 255, 0.8);
+    display: flex;
+    flex-direction: column;
+    width: max-content;
+    height: 100%;
+    background-color: #38ada9;
+    padding: 20px; */
+}
+
+/* .outlined {
+    outline-style: solid;
+    outline-color: black;
+}
+
+.row {
+    outline-style: solid;
+    outline-color: black;
+}
+
+.col-md-2 {
+    outline-style: solid;
+    outline-color: black;
+} */
+.day {
+    margin: 0;
+    font-size: small;
+}
+
+.date {
+    margin: 0;
+    font-size: small;
+}
+
+.month {
+    margin: 0;
+    font-size: small;
+}
+
+.year {
+    margin: 0;
+    font-size: small;
+}
+
+.date-today{
+    background-color: #38ada9;
+    font-family: Maven Pro, sans-serif;
+    justify-content: center;
+    align-items: center;
+    color: rgba(255, 255, 255, 0.8);
+    border-radius: 20px;
+    font-weight: 500;
+
+}
